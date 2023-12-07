@@ -1,0 +1,140 @@
+This is a header
+
+This is a header
+
+This is a header
+
+
+
+
+
+This is a single line comment
+
+
+
+
+
+
+
+
+This is a single line comment
+
+
+Value of addition in c: 
+13
+
+
+
+Value of subtraction in d: 
+7
+
+
+
+Value of multiplication in e: 
+30
+
+
+
+Value ofdivision in f: 
+5
+
+
+
+Value of a: 
+1
+
+
+Value of b: 
+3
+
+
+
+
+This is a multiple line comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Default Block executed
+default
+
+
+
+This is a single line comment
+
+
+
+
+
+In For loop
+In For loop
+In For loop
+In For loop
+In For loop
+Loop executes 5 times
+
+
+
+
+This is a single line comment
+
+
+
+
+
+1 : In while loop
+2 : In while loop
+3 : In while loop
+
+This is a single line comment
+
+
+
+
+
+4 : In decreasing while loop
+3 : In decreasing while loop
+2 : In decreasing while loop
+
+
+
+
+
+
+This is a single line comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not equals to 3
+
+
+
+
+
+
+
+
+
+
+Compilation Successful
+

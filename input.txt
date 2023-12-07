@@ -1,0 +1,108 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+inth mainh fpb fpe
+spb
+
+//initialization
+inth cholok.c assignh 10 add 3; 
+inth cholok.d assignh 10 sub 3; 
+inth cholok.e assignh 10 multi 3; 
+inth cholok.f assignh 10 div 2; 
+inth cholok.a assignh 1; 
+inth cholok.b assignh 3; 
+
+//printing
+
+display_str fpb "Value of addition in c: " fpe;
+display_var fpb cholok.c fpe;
+display_line fpb fpe;
+
+display_str fpb "Value of subtraction in d: " fpe;
+display_var fpb cholok.d fpe;
+display_line fpb fpe;
+
+display_str fpb "Value of multiplication in e: " fpe;
+display_var fpb cholok.e fpe;
+display_line fpb fpe;
+
+display_str fpb "Value ofdivision in f: " fpe;
+display_var fpb cholok.f fpe;
+display_line fpb fpe;
+
+display_str fpb "Value of a: " fpe;
+display_var fpb cholok.a fpe;
+
+
+display_str fpb "Value of b: " fpe;
+display_var fpb cholok.b fpe;
+display_line fpb fpe;
+
+
+/*CONDITIONAL
+switch*/
+
+switchh fpb 5 fpe 
+spb
+	1 : spb display_str fpb "case 1" fpe; spe
+	2 : 
+	spb 
+		display_str fpb "case 2" fpe; 
+		display_line fpb fpe;
+	spe
+	defaulth : 
+	spb 
+		display_str fpb "default" fpe; 
+		display_line fpb fpe;
+	spe
+spe
+
+//for loop
+
+for_loop fpb cholok.a To 5 inc_by 1 fpe
+spb	
+	display_str fpb "In For loop" fpe;
+spe
+
+cholok.a assignh 1;
+
+//while loop
+while fpb cholok.a Less 4 fpe
+spb
+	display_str fpb ": In while loop" fpe;
+	display_line fpb fpe;
+spe
+//WHILE LOOP DECREASING FORMAT
+while fpb cholok.a Great 1 fpe
+spb
+	display_str fpb ": In decreasing while loop" fpe;
+	display_line fpb fpe;
+spe
+
+display_line fpb fpe;
+
+
+//CONDITIONAL if
+
+ifh fpb 4 gt 5 fpe
+spb
+	display_str fpb "Greater than 5" fpe;
+spe
+elseifh fpb 4 e 3 fpe
+spb
+	display_str fpb "Equals to 4" fpe;
+spe
+elseifh fpb 3 ne 4 fpe
+spb
+	display_str fpb "Not equals to 3" fpe;
+spe
+elseh
+spb
+	display_str fpb "Not exactly known" fpe;
+spe
+
+display_line fpb fpe;
+
+	
+spe
